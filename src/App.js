@@ -16,18 +16,18 @@ function App() {
         <a 
         href="https://github.com/Sarffk17" 
         target="_blank">
-        Kelly Sarff 
+         Kelly Sarff 
         </a>
-        and is open-sourced on 
+         and is open-sourced on 
         <a 
         href="https://github.com/Sarffk17/dictionary-define" 
         target="_blank">
-        GithUb </a>
-        and is hosted on
-        <a 
+         GithUb </a>
+         and is hosted on
+       <a 
         href="https://dictionary-define.netlify.app/" 
         target="_blank">
-        Netlify </a>
+         Netlify </a>
         </footer>
       </div>
     </div>
