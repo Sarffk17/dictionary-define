@@ -6,10 +6,11 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          Dictionary
+          DefineDictionary.com
+          <h4>Words—so innocent and powerless as they are, as standing in a dictionary, how potent for good and evil they become, in the hands of one who knows how to combine them</h4>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="Psalm"  />
         </main>
         <footer className="App-footer">
         This dictonary project is coded by 
